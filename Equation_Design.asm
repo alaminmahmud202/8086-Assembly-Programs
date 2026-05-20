@@ -1,6 +1,6 @@
 ; Exp. No. : 05
 ; Exp. Name: Equation Design - Evaluate: 2a + (3/9)b - 4c  =>  2a + b/3 - 4c
-; ID_Name: 240242101_Al Amin Mahmud
+; ID_Name: 240242101_Al_Amin_Mahmud
 
 ; The equation is interpreted as: result = 2*a + (3/9)*b - 4*c
 ;                                        = 2*a + b/3 - 4*c
